@@ -3,7 +3,7 @@ This Organization aggregates the repository forks for creating and maintaing the
 
 ## Most important repositories
 
-- [arm-ttk](arm-ttk/)
+- [arm-ttk](/arm-ttk/)
 - [azure-javaee-iaas](azure-javaee-iaas/)
 - [azure.liberty.aks](azure.liberty.aks/)
 - [azure.liberty.aro](azure.liberty.aro/)
