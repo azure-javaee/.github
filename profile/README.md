@@ -13,5 +13,6 @@ This Organization aggregates the repository forks for creating and maintaing the
 - [jakarta.ee](https://github.com/azure-javaee/jakarta.ee/)
 - [jakartaee-platform](https://github.com/azure-javaee/jakartaee-platform/)
 - [microsoft-partner-center-github-action](https://github.com/azure-javaee/microsoft-partner-center-github-action/)
+- [quarkus-azure-services](https://github.com/azure-javaee/quarkus-azure-services)
 - [rhel-jboss-templates](https://github.com/azure-javaee/rhel-jboss-templates/)
 - [weblogic-azure](https://github.com/azure-javaee/weblogic-azure/)
