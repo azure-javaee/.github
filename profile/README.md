@@ -5,6 +5,7 @@ This Organization aggregates the repository forks for creating and maintaing the
 
 - [arm-ttk](https://github.com/azure-javaee/arm-ttk/)
 - [azure-javaee-iaas](https://github.com/azure-javaee/azure-javaee-iaas/)
+- [azure-sdk-for-java](https://github.com/azure-javaee/azure-sdk-for-java)
 - [azure.liberty.aks](https://github.com/azure-javaee/azure.liberty.aks/)
 - [azure.liberty.aro](https://github.com/azure-javaee/azure.liberty.aro/)
 - [azure.websphere-traditional.cluster](https://github.com/azure-javaee/azure.websphere-traditional.cluster/)
